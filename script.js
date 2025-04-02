@@ -3,3 +3,4 @@ async function getQuote() {
     let data = await response.json();
     document.getElementById("quote").innerText = data.content;
 }
+adfasvefgsf
